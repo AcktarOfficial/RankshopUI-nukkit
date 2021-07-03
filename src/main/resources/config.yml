@@ -1,0 +1,43 @@
+# ===================================
+# Rankshop UI by CyberShield also known as Acktar or AcktarDevs 
+# I got locked out of my discord account :( sad
+# ===================================
+
+form-name: "§lRankShop"
+confirmation-form-name: "§lConfirm your purchase"
+rank-purchased: "§8┃ §6Rankshop§8× you have purchased a rank successfully"
+no-money: "§8┃ §6Rankshop§8× you dont have enough money to purchase this rank"
+
+# always start the identifier from 0
+# the config is pretty self explanatory :) 
+# lp-user is the name of your group in luckperms 
+# name is  the name for the form
+# and price is price lol
+
+identifiers:
+- "0"
+- "1"
+- "2"
+- "3"
+- "4"
+   
+"0":
+    name: "CyberShield"
+    lp-user: "cybershield"
+    price: 20000.00
+"1":
+    name: "ACKTARisDADDY"
+    lp-user: "acktarisdaddy"
+    price: 35000.00
+"2":
+    name: "SUPREME"
+    lp-user: "supreme"
+    price: 40000.00
+"3":
+    name: "HEAVENPE"
+    lp-user: "heavenpe"
+    price: 50000.00
+"4":
+    name: "ACKTARDEVS"
+    lp-user: "acktardevs"
+    price: 80000.00
