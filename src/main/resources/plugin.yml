@@ -1,0 +1,10 @@
+name: Rankshop
+version: 1.0
+api: 1.0.0
+main: com.acktardevs.rankshop.Main
+author: CyberShield
+depends: [LlamaEconomy] 
+commands:
+     ranks:
+         description: purchase ranks with ingame currency
+         usage: /ranks
